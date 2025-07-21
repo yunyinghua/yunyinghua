@@ -1,4 +1,8 @@
 ## 🧩 Sudoku
+| 5 | [⬜] | 3 | 4 | ... |
+|---|-----------|---|---|-----|
+| [⬜] | 7 | [⬜] | 1 | ... |
+| ... | ... | ... | ... | ... |
 
 | 5 | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c2| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c3| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c4| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c5| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c6| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c7| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c8| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r1|c9| ) |
 | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c1| ) | 3 | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c3| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c4| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c5| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c6| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c7| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c8| ) | [⬜](https://github.com/yunyinghua/yunyinghua/issues/new?title=sudoku|set|r2|c9| ) |
