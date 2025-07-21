@@ -1,0 +1,30 @@
+name: Sudoku Move
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  check-sudoku-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Count README changes
+        id: diff
+        run: |
+          CHANGES=$(git diff origin/${{ github.base_ref }}...HEAD -- README.md \
+            | grep '^[+-]' | wc -l)
+          echo "changes=$CHANGES" >> $GITHUB_OUTPUT
+
+      - name: Validate only one cell changed
+        if: steps.diff.outputs.changes != '2'
+        run: |
+          echo "无效 PR：只能修改 README.md 中的一个空格
+          exit 1
+
+      - name: Sudoku PR looks good
+        if: steps.diff.outputs.changes == '2'
+        run: |
+          echo "✅"
