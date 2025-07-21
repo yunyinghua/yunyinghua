@@ -14,7 +14,7 @@
  
 
 
-> 🎯 填格方式：通过提交 PR，将一个 `&nbsp;` 替换为 1–9 的数字，且**一次只能填一个格子**。
+> 填格方式：点击❓，填入1-9的数字
 
 ![Metrics](/github-metrics.svg) ?
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api ?username=yunyinghua&show_icons=true&theme=tokyonight)
